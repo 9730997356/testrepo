@@ -1,8 +1,5 @@
 <?php
-//$xml=simplexml_load_file("dataset.xml") or die("Error: Cannot create object");
-//echo 'Number of format '.count($xml);
 global $array;
-//global $i=0;
 try{
 
     if(isset($_REQUEST['ok'])){
