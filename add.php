@@ -1,5 +1,5 @@
 <?php
-global $array;
+
 try{
 
     if(isset($_REQUEST['ok'])){
